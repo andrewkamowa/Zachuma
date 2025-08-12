@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752307311026",
+    "project_id": "zachuma-ia7u2j",
+    "storage_bucket": "zachuma-ia7u2j.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752307311026:android:ddece483f467934cebd4ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.zachuma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrvcMA4TEgANwCT_oxvKQr6OzAYEV3Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
